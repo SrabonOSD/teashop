@@ -6,7 +6,7 @@
   border-radius: 10px;
   border: 1px solid var(--Dark-05, #D2D2D2);
 }
-.bagk{
-  border-radius: 10px;
-  background:linear-gradient(270deg, #F00 0%, #FF8938 100%));
+
+.gradient{
+  background:linear-gradient(270deg, #F00 0%, #FF8938 100%);
 }
